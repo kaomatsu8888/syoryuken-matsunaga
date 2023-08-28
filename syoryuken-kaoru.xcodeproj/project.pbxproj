@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BFEB6C902A9C271D0048AB84 /* syoryuken.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = syoryuken.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BFEB6C902A9C271D0048AB84 /* syoryuken-kaoru.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "syoryuken-kaoru.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFEB6C932A9C271D0048AB84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFEB6C952A9C271D0048AB84 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		BFEB6C972A9C271D0048AB84 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		BFEB6C912A9C271D0048AB84 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BFEB6C902A9C271D0048AB84 /* syoryuken.app */,
+				BFEB6C902A9C271D0048AB84 /* syoryuken-kaoru.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BFEB6C8F2A9C271D0048AB84 /* syoryuken */ = {
+		BFEB6C8F2A9C271D0048AB84 /* syoryuken-kaoru */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BFEB6CA42A9C271F0048AB84 /* Build configuration list for PBXNativeTarget "syoryuken" */;
+			buildConfigurationList = BFEB6CA42A9C271F0048AB84 /* Build configuration list for PBXNativeTarget "syoryuken-kaoru" */;
 			buildPhases = (
 				BFEB6C8C2A9C271D0048AB84 /* Sources */,
 				BFEB6C8D2A9C271D0048AB84 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = syoryuken;
+			name = "syoryuken-kaoru";
 			productName = syoryuken;
-			productReference = BFEB6C902A9C271D0048AB84 /* syoryuken.app */;
+			productReference = BFEB6C902A9C271D0048AB84 /* syoryuken-kaoru.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BFEB6C8B2A9C271D0048AB84 /* Build configuration list for PBXProject "syoryuken" */;
+			buildConfigurationList = BFEB6C8B2A9C271D0048AB84 /* Build configuration list for PBXProject "syoryuken-kaoru" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BFEB6C8F2A9C271D0048AB84 /* syoryuken */,
+				BFEB6C8F2A9C271D0048AB84 /* syoryuken-kaoru */,
 			);
 		};
 /* End PBXProject section */
@@ -339,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BFEB6C8B2A9C271D0048AB84 /* Build configuration list for PBXProject "syoryuken" */ = {
+		BFEB6C8B2A9C271D0048AB84 /* Build configuration list for PBXProject "syoryuken-kaoru" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BFEB6CA22A9C271F0048AB84 /* Debug */,
@@ -348,7 +348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BFEB6CA42A9C271F0048AB84 /* Build configuration list for PBXNativeTarget "syoryuken" */ = {
+		BFEB6CA42A9C271F0048AB84 /* Build configuration list for PBXNativeTarget "syoryuken-kaoru" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BFEB6CA52A9C271F0048AB84 /* Debug */,
