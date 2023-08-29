@@ -10,7 +10,6 @@ class ViewController: UIViewController {
     
     
     @IBOutlet weak var imageView: UIImageView!
-    @IBOutlet var textLabel: UILabel!
     // 配列
     var imageAttack : Array<UIImage> = []
     
